@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Привет, я Руслан Салюков
 
-<!--
-**ruslansalyukov/ruslansalyukov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Фронтенд-разработчик самоучка
 
-Here are some ideas to get you started:
+Создаю современные веб-интерфейсы, изучаю новые технологии и постепенно расширяю стек от фронтенда до full-stack разработки.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О себе
+
+- 🧩 Разрабатываю пользовательские интерфейсы и UI-компоненты
+- 🎨 Люблю аккуратную верстку и внимание к деталям
+- 📡 Работаю с API и внешними данными
+- ⚙️ Стремлюсь писать чистый, понятный и поддерживаемый код
+- 📚 Постоянно изучаю новые технологии и лучшие практики
+
+## 📚 Сейчас изучаю
+
+- ⚛️ React (углубленно)
+- ⚡ Next.js
+- 🔷 TypeScript
+- 🏗️ Архитектуру современных веб-приложений
+
+## 🛠️ Технологии
+
+### 🎨 Frontend
+
+- HTML5
+- CSS3
+- SCSS
+- Tailwind CSS
+- Bootstrap
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- Motion
+- Three.js
+
+### ⚙️ Инструменты и библиотеки
+
+- React Router
+- React Query
+- React Hook Form
+- Axios
+- Vite
+- Gulp
+
+### 🔧 Backend
+
+- Node.js
+- Express.js
+
+### 🗄️ Базы данных
+
+- MongoDB
+
+### 🚀 Дополнительно
+
+- REST API
+- Git & GitHub
+- BEM
+- ESLint
+- Prettier
+- Figma
