@@ -21,6 +21,9 @@
 
 ## 🛠️ Технологии
 
+<details>
+<summary>🚀 Стек</summary>
+
 ### 🎨 Frontend
 
 - HTML5
@@ -61,3 +64,4 @@
 - ESLint
 - Prettier
 - Figma
+</details>
